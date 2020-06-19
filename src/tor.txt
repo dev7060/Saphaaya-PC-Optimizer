@@ -1,0 +1,4 @@
+
+Windows IP Configuration
+
+Could not display the DNS Resolver Cache.

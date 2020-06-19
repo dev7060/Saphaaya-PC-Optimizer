@@ -1,0 +1,8 @@
+</keyMaterial>
+            </sharedKey>
+        </security>
+    </MSM>
+    <MacRandomization xmlns="http://www.microsoft.com/networking/WLAN/profile/v3">
+        <enableRandomization>false</enableRandomization>
+    </MacRandomization>
+</WLANProfile>
